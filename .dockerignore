@@ -1,0 +1,10 @@
+﻿bin/
+obj/
+.vs/
+.vscode/
+*.user
+local.settings.json
+*.md
+.git/
+.gitignore
+TestResults/
